@@ -1,0 +1,32 @@
+{
+  "name": "framework7-parcel-template",
+  "version": "1.0.0",
+  "description": "Framework7 starter app template bundle up by parcel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeBiton/framework7-parcel-template.git"
+  },
+  "keywords": [
+    "framework7",
+    "parceljs"
+  ],
+  "author": "Guillaume Biton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeBiton/framework7-parcel-template/issues"
+  },
+  "homepage": "https://github.com/GuillaumeBiton/framework7-parcel-template#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.3.0"
+  },
+  "dependencies": {
+    "framework7": "^2.0.2",
+    "framework7-icons": "^0.8.9",
+    "material-design-icons": "^3.0.1"
+  }
+}
