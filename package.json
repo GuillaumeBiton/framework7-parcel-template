@@ -4,7 +4,7 @@
   "description": "Framework7 starter app template bundle up by parcel",
   "main": "index.js",
   "scripts": {
-    "start": "node_modules/.bin/parcel -o index.html",
+    "start": "node_modules/.bin/parcel index.html --open",
     "build": "node_modules/.bin/parcel build index.html -d docs/ --public-url ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
