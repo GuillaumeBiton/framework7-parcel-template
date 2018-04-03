@@ -8,10 +8,4 @@ var app = new Framework7({
   statusbar: {
     overlay: Framework7.device.ios ? Framework7.device.webView || Framework7.device.cordova : 'auto',
   },
-  routes : [
-    {
-      path: '/',
-      url: './pages/home.html'
-    }
-  ]
 })
