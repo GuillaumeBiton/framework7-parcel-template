@@ -1,3 +1,17 @@
 @import 'framework7/dist/css/framework7.min.css';
 @import 'framework7-icons/css/framework7-icons.css';
 @import 'material-design-icons/iconfont/material-icons.css';
+
+.center-block {
+		display: block;
+		text-align: center;
+		font-size: 21px;
+		line-height: 30px;
+		font-weight: 300;
+		position: absolute;
+		left: 0;
+		width: 100%;
+		top: 50%;
+		margin-top: -15px;
+		text-align: center;
+	}
