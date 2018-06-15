@@ -1,5 +1,5 @@
 // Librairies
-import Framework7 from 'framework7'
+import Framework7 from 'framework7/framework7.esm'
 
 // Init F7
 var app = new Framework7({
