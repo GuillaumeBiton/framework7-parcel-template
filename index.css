@@ -15,8 +15,3 @@
 		margin-top: -15px;
 		text-align: center;
 	}
-
-.ios .statusbar, .ios .navbar {
-	background: #2196f3;
-	color: white;
-}
